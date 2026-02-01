@@ -1,3 +1,5 @@
+<!-- REGIME.md – CONSTITUIÇÃO SELADA – v1.0.0-constitucional -->
+<!-- Alterações exigem procedimento constitucional explícito -->
 # REGIME CONSTITUCIONAL DO ATLAS
 
 ## Source of Authority
