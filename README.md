@@ -34,6 +34,7 @@ Há inexistência científica.
 ```
 atlas/
 ├── REGIME.md # Constituição técnica imutável
+├── AMENDMENTS.md # Protocolo constitucional de mudança
 ├── topology/ # Grafo de acoplamentos permitidos/proibidos
 ├── laws/ # Papers convertidos em leis
 ├── evidence-map/ # Evidência exigida por lei
