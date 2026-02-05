@@ -1,63 +1,81 @@
-# ATLAS — Regime Científico do MatVerse
+# atlas
 
-O **Atlas** é o regime científico soberano do MatVerse.
-
-Ele **não executa código**, **não publica papers** e **não produz métricas**.
-Ele governa **regras**, **acoplamentos** e **validade científica**.
-
-Fora do Atlas, não há erro.
-Há inexistência científica.
+> **Repositório Oficial dos Invariantes, Mapas Epistêmicos e Estrutura Constitucional do MatVerse**
+> **Status:** Ativo
+> **Mantenedor:** Mateus Alves Arêas ([ORCID 0009-0008-2973-4047](https://orcid.org/0009-0008-2973-4047))
 
 ---
 
-## Função
+## ✨ Propósito
 
-- Converter papers em **leis científicas verificáveis**
-- Definir **invariantes imutáveis**
-- Governar **acoplamentos permitidos**
-- Registrar **história científica como estado**, não narrativa
+O repositório **atlas** é o registro canônico das leis, invariantes e topologias que definem e sustentam a realidade científica do ecossistema MatVerse. Sua função central é *definir*, documentar e preservar o campo das possibilidades do sistema — toda operação, evolução ou decisão de admissão depende dos artefatos aqui materializados.
 
 ---
 
-## O que o Atlas NÃO é
+## 📜 Constituição e Hierarquia
 
-- Não é paper acadêmico
-- Não é runtime
-- Não é manifesto
-- Não é roadmap
-- Não é produto
+> Este repositório está subordinado à [Cláusula de Imutabilidade](https://github.com/matverse-acoa/core/blob/main/CONSTITUTION.md) e à [Lei de Admissibilidade Científica](https://github.com/matverse-acoa/core/blob/main/ADMISSIBILITY.md).
+> **Nada no atlas pode contradizer esses documentos.**
 
 ---
 
-## Estrutura Canônica
+## 🗺️ Estrutura dos Conteúdos
 
-```
-atlas/
-├── REGIME.md # Constituição técnica imutável
-├── AMENDMENTS.md # Protocolo constitucional de mudança
-├── topology/ # Grafo de acoplamentos permitidos/proibidos
-├── laws/ # Papers convertidos em leis
-├── evidence-map/ # Evidência exigida por lei
-├── invariants/ # Regras matemáticas imutáveis
-└── signatures/ # Selos criptográficos do regime
-```
+* **/axioms/** – Declarações formais dos axiomas ontológicos e operacionais do MatVerse
+* **/invariants/** – Definições matemáticas dos invariantes fundamentais (ex: Science → Evidence)
+* **/domains/** – Mapeamento dos domínios (organismo, gate, cassandra, core, papers, etc.)
+* **/laws/** – Textos versionados das leis científicas, constitucionais e experimentais
+* **/maps/** – Diagramas, grafos de dependência e visualizações topológicas
+* **/meta/** – Documentação de governança, processos de revisão e escalonamento
 
 ---
 
-## Regra Suprema
+## 🔗 Principais Documentos
 
-Nenhuma proposição científica é válida
-sem obedecer ao REGIME.md
-e sem evidência compatível com o Atlas.
+| Documento                         | Função                                   |
+| --------------------------------- | ---------------------------------------- |
+| `CONSTITUTION.md`                 | Invariante Primário                      |
+| `ADMISSIBILITY.md`                | Firewall Ontológico                      |
+| `/invariants/science_evidence.md` | Formalização do fluxo central            |
+| `/laws/admissibility_law_v1.md`   | Critérios de existência computacional    |
+| `/domains/sovereigns.md`          | Soberanos: funções e relações            |
+| `/maps/topology_v1.png`           | Visualização da topologia constitucional |
 
 ---
 
-## Estado
+## 🧩 Contribuição
 
-O Atlas é versionado, selado e verificável.
-Mudanças exigem procedimento constitucional explícito.
+Contribuições são permitidas **apenas** via submissão formal e revisão colegiada dos Soberanos.
+**Sugestões, issues e pull requests devem referenciar explicitamente a cláusula constitucional que motivou a alteração.**
+*Apenas artefatos plenamente admissíveis (ver Lei de Admissibilidade) serão aceitos.*
 
-REGIME ATIVO: `v1.0`
+---
 
-Esse README não explica — ele declara.
-Perfeito para máquina, auditor ou adversário.
+## 📈 Roadmap
+
+* [ ] Completar /axioms com todos os axiomas de governança
+* [ ] Versionar e publicar mapas de interação dos soberanos
+* [ ] Documentar todos os processos de revisão normativa
+* [ ] Integrar dashboards epistêmicos via MatVerse Core
+
+---
+
+## 🛡️ Notas de Segurança e Governança
+
+O atlas nunca executa código nem processa dados operacionais. Seu papel é *definidor e descritivo*.
+**Qualquer tentativa de suprimir, modificar retroativamente ou obscurecer leis e invariantes aqui presentes constitui violação constitucional e será rejeitada automaticamente.**
+
+---
+
+## 📚 Referências
+
+* [MatVerse Core](https://github.com/matverse-acoa/core)
+* [MatVerse Papers](https://github.com/matverse-acoa/papers)
+* [MatVerse Gate (PBSE)](https://github.com/matverse-acoa/control-plane)
+* [MatVerse Organismo](https://github.com/matverse-acoa/autopoietcsys)
+* [Cláusula de Imutabilidade - Constitution.md](https://github.com/matverse-acoa/core/blob/main/CONSTITUTION.md)
+* [Lei de Admissibilidade Científica - Admissibility.md](https://github.com/matverse-acoa/core/blob/main/ADMISSIBILITY.md)
+
+---
+
+**MatVerse Atlas: “Definir o real é condicionar todo o resto.”**
